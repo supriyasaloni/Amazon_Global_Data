@@ -19,6 +19,7 @@ The dashboard helps analyze:
 
 🔄 Product returns
 
+<img width="871" height="482" alt="Screenshot 2026-09-07 192452" src="https://github.com/user-attachments/assets/af58dfbe-d7df-4210-a41b-0567ec8ff36e" />
 
 👥 Customer segments
 
