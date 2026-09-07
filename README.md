@@ -48,14 +48,6 @@ Business Intelligence
 
 The objective of this project is to analyze global sales data and identify key markets, valuable customers, high-performing products, customer segments, and potential business opportunities to support data-driven decision-making.
 
-📊 Dashboard Preview
-
-Add your dashboard screenshot here.  
-
-![Uploading Screenshot 2026-09-07 192452.png…]()
-
-
-
 
 🔑 Key Insights
 
