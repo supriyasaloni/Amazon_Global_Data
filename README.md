@@ -50,7 +50,12 @@ The objective of this project is to analyze global sales data and identify key m
 
 📊 Dashboard Preview
 
-Add your dashboard screenshot here.
+Add your dashboard screenshot here.  
+
+![Uploading Screenshot 2026-09-07 192452.png…]()
+
+
+
 
 🔑 Key Insights
 
