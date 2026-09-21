@@ -19,7 +19,7 @@ The dashboard helps analyze:
 
 🔄 Product returns
 
-<img width="871" height="482" alt="Screenshot 2026-09-07 192452" src="https://github.com/user-attachments/assets/af58dfbe-d7df-4210-a41b-0567ec8ff36e" />
+
 
 👥 Customer segments
 
@@ -58,3 +58,6 @@ Top-performing products generate significant business value.
 Some products show negative profit, highlighting potential pricing or cost issues.
 
 
+Dashboard overview
+
+<img width="872" height="475" alt="Screenshot 2026-09-21 111408" src="https://github.com/user-attachments/assets/c7b9a87c-6a0b-44f0-acf5-b2000b817f33" />
